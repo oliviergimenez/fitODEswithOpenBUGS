@@ -44,12 +44,8 @@ Now read in the data from Shaun of the Dead:
 
 The authors propose the following epidemic model to capture the zombie
 apocalypse:
-$$\\begin{align}
-\\frac{dS}{dt} & = - \\beta S Z \\\\
-\\frac{dE}{dt} & = \\beta S Z - \\zeta E \\\\
-\\frac{dZ}{dt} & = \\zeta E - \\alpha SZ  \\\\
-\\frac{dR}{dt} & =  \\alpha S Z 
-\\end{align}$$
+
+![](https://latex.codecogs.com/gif.latex?%5Cbegin%7Balign*%7D%20%5Cfrac%7BdS%7D%7Bdt%7D%20%26%20%3D%20-%20%5Cbeta%20S%20Z%20%5C%5C%20%5Cfrac%7BdE%7D%7Bdt%7D%20%26%20%3D%20%5Cbeta%20S%20Z%20-%20%5Czeta%20E%20%5C%5C%20%5Cfrac%7BdZ%7D%7Bdt%7D%20%26%20%3D%20%5Czeta%20E%20-%20%5Calpha%20SZ%20%5C%5C%20%5Cfrac%7BdR%7D%7Bdt%7D%20%26%20%3D%20%5Calpha%20S%20Z%20%5Cend%7Balign*%7D)
 
 Let us solve this system:
 
