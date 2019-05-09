@@ -183,8 +183,8 @@ The estimates are:
 
 ![](unnamed-chunk-11-1.png)
 
-The convergence is not satisfying (to say the least), as can be seen
-from the posterior densities above and the Gelman diagnostics:
+The convergence is not satisfying at all, as can be seen
+from above and the Gelman diagnostics below:
 
     gelman.diag(out.coda) 
 
@@ -201,8 +201,8 @@ from the posterior densities above and the Gelman diagnostics:
     ## 
     ## 2.12
 
-We would run the chains for (muuuuch) longer if we were to get final
-results. For now, these estimates will do for illustration purpose.
+We would run the chains for (muuuuch) longer if we were to get interpretable
+results. For illustration purpose, these estimates will do.
 
 The numerical summaries are:
 
