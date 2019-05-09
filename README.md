@@ -21,8 +21,8 @@ Example
 -------
 
 To illustrate the approach, I use data from a paper by Witkowski and
-Brais [‘Bayesian Analysis of Epidemics - Zombies, Influenza, and other
-Diseases’](https://arxiv.org/abs/1311.6376) who provide a Python
+Brais [Bayesian Analysis of Epidemics - Zombies, Influenza, and other
+Diseases](https://arxiv.org/abs/1311.6376) who provide a Python
 solution to the problem (see Notebook
 [here](https://gist.github.com/bblais/181abd99f878282666b98a29588dda41)).
 Briefly speaking, the authors counted the number of living deads in
