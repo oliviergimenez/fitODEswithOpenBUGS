@@ -144,7 +144,7 @@ Below are the parameters we’d like to monitor:
 
     parameters <- c('alpha','beta','zeta', 'Sinit')
 
-At last, let us run OpenBUGS! I have Mac, which makes it tricky to use
+At last, let us run OpenBUGS! I am working on a Mac, which can make it tricky to use
 OpenBUGS (see
 [here](https://oliviergimenez.github.io/post/run_openbugs_on_mac/) and
 [there](https://oliviergimenez.github.io/post/run_openbugs_parallel/) to
